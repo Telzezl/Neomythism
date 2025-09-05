@@ -1,8 +1,8 @@
-# Neomythism
+# Neomythism 
 Repositry for the philosophy, branches and such-like are encouraged!
 All essays are being stored here as of 02/09/2025
 
-This repository serves as a **complete archive** of the Neomythism project.  
+This repository serves as a **complete archive** of the Neomythism project. Telzezl's Neomythism is the original, making it "canon". 
 It contains essays, foundational texts, and key tweets in both **PDF** and **DOCX** formats.
 
 Prior to this we merely stored essays on Substack, however it is useful if we can track version history.
@@ -23,3 +23,11 @@ and accessible for future researchers, collaborators, and followers. Development
 ## Important Links
 - Neomythism Substack: https://telzezl.substack.com 
 - Twitter: https://x.com/Telzezl
+  
+Canonical materials CC BY-SA 4.0 is Creative Commons — Attribution-ShareAlike
+What does CC BY-SA Mean? 
+A permissive content licence that lets others copy, share, and adapt your work even commercially as long as they:
+
+Attribute Telzezl the original creator.
+License their derivative works under the same licence
+Mark any changes they made and not add legal restrictions beyond the licence.
